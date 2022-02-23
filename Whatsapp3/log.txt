@@ -1,0 +1,32 @@
+2022-02-23T11:46:31.525Z      App running on *: 8000
+2022-02-23T11:56:34.107Z      File downloaded successfully! ./downloaded-media/1645588594105.jpeg
+2022-02-23T13:02:40.458Z      File downloaded successfully! ./downloaded-media/1645592560456.jpeg
+2022-02-23T13:02:43.333Z      File downloaded successfully! ./downloaded-media/1645592563332.jpeg
+2022-02-23T13:02:45.809Z      File downloaded successfully! ./downloaded-media/1645592565808.jpeg
+2022-02-23T13:02:50.026Z      File downloaded successfully! ./downloaded-media/1645592570025.jpeg
+2022-02-23T13:02:52.309Z      File downloaded successfully! ./downloaded-media/1645592572307.jpeg
+2022-02-23T13:02:55.590Z      File downloaded successfully! ./downloaded-media/1645592575588.jpeg
+2022-02-23T13:02:58.804Z      File downloaded successfully! ./downloaded-media/1645592578802.jpeg
+2022-02-23T13:42:35.156Z      File downloaded successfully! ./downloaded-media/1645594955154.jpeg
+2022-02-23T13:47:47.057Z      File downloaded successfully! ./downloaded-media/1645595267056.jpeg
+2022-02-23T13:47:47.566Z      File downloaded successfully! ./downloaded-media/1645595267564.jpeg
+2022-02-23T13:47:58.682Z      File downloaded successfully! ./downloaded-media/1645595278681.jpeg
+2022-02-23T13:47:59.264Z      File downloaded successfully! ./downloaded-media/1645595279262.jpeg
+2022-02-23T13:47:59.757Z      File downloaded successfully! ./downloaded-media/1645595279756.jpeg
+2022-02-23T14:34:49.032Z      [Request @promosi-6282153209837@c.us] Request file promo diterima.
+2022-02-23T14:34:49.048Z      [Request @promosi-6282153209837@c.us] Request file promo mengirim - Promo Mingguan #1 (Periode 10-23 Februari 2022).
+2022-02-23T14:34:49.048Z      [Request @promosi-6282153209837@c.us] Request file promo terkirim.
+2022-02-23T14:34:49.053Z      [Request @promosi-6282153209837@c.us] Request file promo mengirim - Promo Mingguan #2 (Periode 10-23 Februari 2022).
+2022-02-23T14:34:49.053Z      [Request @promosi-6282153209837@c.us] Request file promo terkirim.
+2022-02-23T14:34:49.059Z      [Request @promosi-6282153209837@c.us] Request file promo mengirim - Promo Mingguan #3 (Periode 10-23 Februari 2022).
+2022-02-23T14:34:49.059Z      [Request @promosi-6282153209837@c.us] Request file promo terkirim.
+2022-02-23T14:34:49.064Z      [Request @promosi-6282153209837@c.us] Request file promo mengirim - Promo Mingguan #4 (Periode 10-23 Februari 2022).
+2022-02-23T14:34:49.064Z      [Request @promosi-6282153209837@c.us] Request file promo terkirim.
+2022-02-23T14:34:49.070Z      [Request @promosi-6282153209837@c.us] Request file promo mengirim - Promo Susu Murah (Periode 01-28 Februari 2022).
+2022-02-23T14:34:49.070Z      [Request @promosi-6282153209837@c.us] Request file promo terkirim.
+2022-02-23T14:34:49.071Z      [Request @promosi-6282153209837@c.us] Request file promo terkirim.
+2022-02-23T14:34:49.405Z      File downloaded successfully! ./downloaded-media/1645598089401.jpeg
+2022-02-23T14:34:49.445Z      File downloaded successfully! ./downloaded-media/1645598089444.jpeg
+2022-02-23T14:34:49.478Z      File downloaded successfully! ./downloaded-media/1645598089477.jpeg
+2022-02-23T14:34:50.142Z      File downloaded successfully! ./downloaded-media/1645598090135.mp4
+2022-02-23T16:10:24.221Z      File downloaded successfully! ./downloaded-media/1645603824219.jpeg
